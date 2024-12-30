@@ -11,10 +11,10 @@ openai.api_key = st.secrets["azure_openai"]["api_key"]  # Lấy API Key từ Str
 openai.api_base = st.secrets["azure_openai"]["api_base"]  # Lấy endpoint từ Streamlit Secrets
 openai.api_version = "2023-05-15"  # Sử dụng API phiên bản mới nhất
 
-# Hàm tạo embedding cho truy vấn (API mới)
+# Hàm tạo embedding cho truy vấn (API cũ)
 def get_query_embedding(query):
     try:
-        response = openai.Embedding.create(  # Sử dụng openai.embeddings thay vì openai.Embedding.create
+        response = openai.Embedding.create(  # Sử dụng openai.Embedding.create
             engine="text-embedding-3-large", 
             input=query
         )
