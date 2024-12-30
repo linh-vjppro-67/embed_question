@@ -8,7 +8,7 @@ import os
 # Cấu hình Azure OpenAI từ secrets
 openai.api_type = "azure"
 openai.api_key = st.secrets["azure_openai"]["api_key"]  # Lấy API Key từ Streamlit Secrets
-openai.api_base = st.secrets["azure_openai"]["endpoint"]  # Lấy endpoint từ Streamlit Secrets
+openai.api_base = st.secrets["azure_openai"]["api_base"]  # Lấy endpoint từ Streamlit Secrets
 openai.api_version = "2023-05-15"  # Sử dụng API phiên bản mới nhất
 
 # Hàm tạo embedding cho truy vấn
