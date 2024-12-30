@@ -1,0 +1,167 @@
+{
+    "job_title": "Java Software Engineer",
+    "value": [
+      {
+        "category": "Core Java",
+        "skills": [
+          "Java (17+ features)",
+          "Concurrency API",
+          "Streams API",
+          "Lambda Expressions",
+          "Functional Programming",
+          "Generics",
+          "Annotations",
+          "Multithreading",
+          "Collections Framework",
+          "JDK Tools (JConsole, JStack)",
+          "JVM Architecture",
+          "Garbage Collection Mechanisms",
+          "Optional APIs"
+        ]
+      },
+      {
+        "category": "Frameworks",
+        "skills": [
+          "Spring Framework",
+          "Spring Boot",
+          "Hibernate",
+          "JPA",
+          "Spring Security",
+          "Micronaut",
+          "Quarkus",
+          "Play Framework",
+          "Apache Struts 2",
+          "Dropwizard",
+          "Vaadin",
+          "Thymeleaf",
+          "Grails"
+        ]
+      },
+      {
+        "category": "Web Development",
+        "skills": [
+          "Jakarta EE",
+          "JSP",
+          "Servlets",
+          "RESTful APIs",
+          "WebSockets",
+          "GraphQL APIs",
+          "HTML5",
+          "CSS3",
+          "JavaScript",
+          "ReactJS",
+          "Angular",
+          "Bootstrap",
+          "Material UI"
+        ]
+      },
+      {
+        "category": "Microservices",
+        "skills": [
+          "Spring Cloud",
+          "Kubernetes",
+          "Docker",
+          "Reactive Programming (Reactor, RxJava)",
+          "API Gateways (Zuul, Kong, Apigee)",
+          "Service Mesh (Istio, Linkerd)",
+          "OpenAPI/Swagger"
+        ]
+      },
+      {
+        "category": "Database Management",
+        "skills": [
+          "SQL",
+          "NoSQL (MongoDB, Cassandra, Redis)",
+          "JDBC",
+          "JPA/Hibernate",
+          "Flyway",
+          "Liquibase",
+          "RDBMS (PostgreSQL, MySQL, Oracle)",
+          "Cloud Databases (AWS RDS, Azure Cosmos DB)",
+          "Query Optimization Techniques"
+        ]
+      },
+      {
+        "category": "Build and CI/CD Tools",
+        "skills": [
+          "Maven",
+          "Gradle",
+          "Ant",
+          "Jenkins",
+          "GitLab CI/CD",
+          "GitHub Actions",
+          "Bazel",
+          "SonarQube",
+          "Jib",
+          "ArgoCD"
+        ]
+      },
+      {
+        "category": "Testing",
+        "skills": [
+          "JUnit",
+          "TestNG",
+          "Mockito",
+          "Cucumber",
+          "AssertJ",
+          "WireMock",
+          "JaCoCo",
+          "Selenium for UI Tests",
+          "Postman for API Testing",
+          "Load/Performance Testing with JMeter",
+          "Gatling"
+        ]
+      },
+      {
+        "category": "Performance Optimization",
+        "skills": [
+          "JVM Tuning (Heap, Stack)",
+          "Garbage Collection Optimization (G1, ZGC)",
+          "Profiling Tools (JProfiler, VisualVM)",
+          "Application Performance Monitoring (APM) (New Relic, AppDynamics)",
+          "Thread and Memory Analysis",
+          "Asynchronous Programming"
+        ]
+      },
+      {
+        "category": "Deployment & DevOps",
+        "skills": [
+          "Docker",
+          "Kubernetes",
+          "OpenShift",
+          "Helm Charts",
+          "AWS Elastic Beanstalk",
+          "Cloud Foundry",
+          "Jenkins Pipelines",
+          "Terraform",
+          "Ansible",
+          "CI/CD Pipelines Automation"
+        ]
+      },
+      {
+        "category": "Security",
+        "skills": [
+          "Spring Security",
+          "OWASP Best Practices",
+          "JWT Authentication",
+          "OAuth2",
+          "SSL/TLS Configuration",
+          "CSRF Prevention",
+          "Penetration Testing",
+          "Security Vulnerability Scanning (e.g., Snyk, Veracode)",
+          "Role-Based Access Control (RBAC)"
+        ]
+      },
+      {
+        "category": "Cloud Integration",
+        "skills": [
+          "AWS (S3, EC2, Lambda, RDS)",
+          "Azure (App Services, Functions)",
+          "Google Cloud Platform (Compute Engine, BigQuery)",
+          "Cloud-Native Application Design",
+          "Serverless Frameworks"
+        ]
+      }
+    ]
+  }
+  
