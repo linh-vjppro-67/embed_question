@@ -14,7 +14,7 @@ openai.api_version = "2023-05-15"  # Sử dụng API phiên bản mới nhất
 # Hàm tạo embedding cho truy vấn (API mới)
 def get_query_embedding(query):
     try:
-        response = openai.Embeddings.create(  # Sử dụng openai.embeddings thay vì openai.Embedding.create
+        response = openai.Embedding.create(  # Sử dụng openai.embeddings thay vì openai.Embedding.create
             engine="text-embedding-3-large", 
             input=query
         )
